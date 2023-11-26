@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Divya Sitani
-    tagline: Post Doctoral Researcher
+    tagline: Researcher in Computational Biomedicine
     avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,12 +57,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a dedicated researcher specializing in computational biomedicine, 
+      currently focused on applying machine learning techniques for morphological profiling at 
+      Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin.
+      
+      My academic journey, includes by a PhD from Forschungszentrum Juelich, Germany and Department of Biology, RWTH Aachen (defense: 16.01.2024), 
+      has been a blend of rigorous research and mentorship, especially during my tenure as a Group Leader at summer camps organized by miRcore, University of Michigan.
+
+
 education:
     title: Education
     info:
