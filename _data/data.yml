@@ -20,32 +20,32 @@ sidebar:
     #website: Divya1205 #do not add http://
     linkedin: divya-sitani-868216152
     #xing: alandoe
-    github: github.com/Divya1205
+    github: Divya1205
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: divya_sitani
+    stack-overflow: 14068444/divya-sitani # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Hindi
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: #Spanish
+          level: #Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hackathons
           link:
 
         - item: Snowboarding
