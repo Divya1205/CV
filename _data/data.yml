@@ -39,20 +39,20 @@ sidebar:
         - idiom: Hindi
           level: Native
 
-        - idiom: #Spanish
-          level: #Professional
+       # - idiom: #Spanish
+       #   level: #Professional
 
     interests:
       title: Interests
       info:
-        - item: Hackathons
+        - item: participating in Hackathons
           link:
 
-        - item: Snowboarding
+        - item: Writing
           link:
 
-        - item: Cooking
-          link:
+        #- item: Cooking
+         # link:
 
 career-profile:
     title: Career Profile
