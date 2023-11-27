@@ -55,14 +55,13 @@ sidebar:
          # link:
 
 career-profile:
-    title: Career Profile
+    title: Career Summary
     summary: I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems
       currently focused on leveraging machine learning techniques for morphological profiling and cell painting at 
       Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin. 
       My academic journey that includes a PhD from Forschungszentrum Juelich, Germany and Department of Biology, RWTH Aachen (defense: 16.01.2024), 
       has been a blend of rigorous research in the use of ML/AI for protein-protein interaction applications and mentorship of pre-university students, especially during my tenure as a Group Leader at 
       summer camps organized by miRcore, University of Michigan.
-      
       I actively engage in international conferences and hackathons in the fields of application of AI/ML for bio-image analysis, drug discovery and computational biomedicine to stay connected with the latest in the field, constantly working on new and challenging problems and get to network with like minded individuals. 
       With a strong background in electronics and communications engineering, I bring a unique perspective to computational biology, constantly seeking innovative solutions to complex problems.
       I have publications in renowned journals for the work done during M. Tech. and PhD studies and hackathons. I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie for 
@@ -71,9 +70,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Computational Biomedicine
+        university: Forschungszentrum Juelich and Department of Biology, RWTH Aachen Germany.
+        time: 2017 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
