@@ -84,8 +84,8 @@ education:
         #details: |
           
 
-Work experiences:
-    title: Experiences
+experiences:
+    title: Work Experience
     info:
       - role: Lead Developer
         time: 2015 - Present
