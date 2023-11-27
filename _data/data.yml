@@ -8,67 +8,71 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Divya Sitani
+    tagline: Researcher in Computational Biomedicine
+    avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: jrpcsitani@gmail.com
+    phone: #012 345 6789
+    timezone: #America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: researchgate.net/profile/Divya-Sitani/research #do not add http://
+    linkedin: divya-sitani-868216152
+    xing: #alandoe
+    github: Divya1205
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@divya_sitani'
+    stack-overflow: 14068444/divya-sitani # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Hindi
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: #Spanish
+          level: #Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: participating in Hackathons
           link:
 
-        - item: Snowboarding
+        - item: Writing
           link:
 
-        - item: Cooking
+        - item: #Cooking
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin.
+      - My academic journey includes a PhD from Forschungszentrum Juelich, Germany and the Department of Biology, RWTH Aachen. This journey has been a blend of rigorous research in the use of ML/AI for protein-protein interaction applications and mentorship of pre-university students, especially during my tenure as a Group Leader at summer camps organized by miRcore, University of Michigan. My thesis defense is scheduled for 16, January, 2024.
+      - I actively engage in international conferences and hackathons in the fields of application of AI/ML for bio-image analysis, drug discovery, and computational biomedicine. This engagement helps me stay connected with the latest in the field, constantly working on new and challenging problems, and networking with like-minded individuals. With a strong background in electronics and communications engineering, I bring a unique perspective to computational biology, constantly seeking innovative solutions to complex problems.
+      - I have publications in renowned journals for the work done during my M. Tech. and PhD studies, as well as hackathons. I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library and exploring further research prospects of this data for drug discovery.
+      #Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. You can [download this free resume/CV template here]().
+      #Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      #penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      #Donec quam felis, ultricies nec, pellentesque eu.
+      #Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Computational Biomedicine
+        university: Forschungszentrum Juelich and Department of Biology, RWTH Aachen Germany
+        time: 2017 - 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
