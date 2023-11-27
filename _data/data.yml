@@ -94,8 +94,18 @@ experiences:
             - Phenotypic drug discovery through cell painting profiles using Machine Learning and AI
             - Unsupervised learning and clustering to discover biological patterns and relevant Modes of Action data in cell painting data from two cell cancer lines, across multiple partner sites.
             - I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library and exploring the clusters in this cell painting data for further research prospects of this data for drug discovery.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
+      
+      - role: Group Leader 
+        time: 12.06.2023 - 14.07.2023
+        company: miRcore (University of Michigan) 
+        details: |
+            - Group leader for virtual Computational Biology (CB) Summer Camp and Machine Learning with R summer camp.
+            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in each camp.
+            - Helped students finish a research project within one week, while learning and applying new computational biology tools every day. 
+            - In the CB camp, we researched Biomarkers in Breast Cancer with my group.
+            - 
+      - role: PhD Researcher
+        time: 06.10.2017 - 31.03.2023
         company: Google, London
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
