@@ -24,7 +24,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@divya_sitani'
+    twitter:'@divya_sitani'
     stack-overflow: 14068444/divya-sitani # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,8 +39,7 @@ sidebar:
         - idiom: Hindi
           level: Native
 
-        - idiom: #Spanish
-          level: #Professional
+        
 
     interests:
       title: Interests
@@ -69,24 +68,20 @@ education:
         university: Forschungszentrum Juelich and Department of Biology, RWTH Aachen Germany
         time: 2017 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          - PhD Thesis titled Machine learning methods for prediction of protein-protein interactions hot spot residues.
+          - Supervisors: Prof. Dr Paolo Carloni, Prof. Dr. Geraldine Zimmer-Bensch.
+          Thesis Defense: 16th January 2024.
+      - degree: M.Tech. in Communications and Signal Processing
+        university: Indraprastha Institute of Information Technology, Delhi, India
+        time: 2015 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          - M. Tech. Thesis titled Visual Tracking using Analysis Dictionary Learning.
+          - The main area of research was Computer Vision and Machine Learning and supervisors were Dr. A.V. Subramanyam, Dr. Angshul Majumdar.
+      - degree: B.Tech. in Electronics Engineering
+        university: Kamla Nehru Insitute of Technology, Sultanpur, India
+        time: 2011 - 2015
+        details: |
+          
 
 experiences:
     title: Experiences
