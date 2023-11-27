@@ -54,9 +54,9 @@ sidebar:
         #- item: Cooking
          # link:
 
-career_profile:
-  title: Career Summary
-  summary: 
+    career_profile:
+      title: Career Summary
+      summary: 
     
       I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, 
       currently focused on leveraging machine learning techniques for morphological profiling and cell painting at 
