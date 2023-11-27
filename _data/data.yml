@@ -67,14 +67,14 @@ education:
       - degree: PhD in Computational Biomedicine
         university: Forschungszentrum Juelich and Department of Biology, RWTH Aachen Germany
         time: 2017 - 2023
-        details: |
+        details: 
           - PhD Thesis titled Machine learning methods for prediction of protein-protein interactions hot spot residues.
           - Supervisors: Prof. Dr Paolo Carloni, Prof. Dr. Geraldine Zimmer-Bensch.
           - Thesis Defense: 16th January 2024.
       - degree: M.Tech. in Communications and Signal Processing
         university: Indraprastha Institute of Information Technology, Delhi, India
         time: 2015 - 2017
-        details: |
+        details: 
           - M. Tech. Thesis titled Visual Tracking using Analysis Dictionary Learning.
           - The main area of research was Computer Vision and Machine Learning.
           - Supervisors were Dr. A.V. Subramanyam, Dr. Angshul Majumdar.
