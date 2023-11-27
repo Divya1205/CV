@@ -37,7 +37,7 @@ sidebar:
         link: # Link if available
     # Other commented fields
 
-  career_profile:
+  career-profile:
     title: Career Summary
     summary: |
       - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin.
