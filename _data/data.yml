@@ -70,7 +70,7 @@ education:
         details: |
           - PhD Thesis titled Machine learning methods for prediction of protein-protein interactions hot spot residues.
           - Supervisors: Prof. Dr Paolo Carloni, Prof. Dr. Geraldine Zimmer-Bensch.
-          Thesis Defense: 16th January 2024.
+          - Thesis Defense: 16th January 2024.
       - degree: M.Tech. in Communications and Signal Processing
         university: Indraprastha Institute of Information Technology, Delhi, India
         time: 2015 - 2017
@@ -80,7 +80,7 @@ education:
       - degree: B.Tech. in Electronics Engineering
         university: Kamla Nehru Insitute of Technology, Sultanpur, India
         time: 2011 - 2015
-        details: |
+        #details: |
           
 
 experiences:
