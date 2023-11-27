@@ -56,27 +56,25 @@ sidebar:
 
     career_profile:
       title: Career Summary
-      summary: 
+      summary: I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, 
+               currently focused on leveraging machine learning techniques for morphological profiling and cell painting at 
+               Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin.
     
-      I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, 
-      currently focused on leveraging machine learning techniques for morphological profiling and cell painting at 
-      Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin.
+               My academic journey includes a PhD from Forschungszentrum Juelich, Germany and the Department of Biology, RWTH Aachen. 
+               This journey has been a blend of rigorous research in the use of ML/AI for protein-protein interaction applications and 
+               mentorship of pre-university students, especially during my tenure as a Group Leader at summer camps organized by 
+               miRcore, University of Michigan. My thesis defense is scheduled for 16.01.2024.
     
-      My academic journey includes a PhD from Forschungszentrum Juelich, Germany and the Department of Biology, RWTH Aachen. 
-      This journey has been a blend of rigorous research in the use of ML/AI for protein-protein interaction applications and 
-      mentorship of pre-university students, especially during my tenure as a Group Leader at summer camps organized by 
-      miRcore, University of Michigan. My thesis defense is scheduled for 16.01.2024.
+               I actively engage in international conferences and hackathons in the fields of application of AI/ML for bio-image analysis, 
+               drug discovery, and computational biomedicine. This engagement helps me stay connected with the latest in the field, 
+               constantly working on new and challenging problems, and networking with like-minded individuals. With a strong background 
+               in electronics and communications engineering, I bring a unique perspective to computational biology, constantly seeking 
+               innovative solutions to complex problems.
     
-      I actively engage in international conferences and hackathons in the fields of application of AI/ML for bio-image analysis, 
-      drug discovery, and computational biomedicine. This engagement helps me stay connected with the latest in the field, 
-      constantly working on new and challenging problems, and networking with like-minded individuals. With a strong background 
-      in electronics and communications engineering, I bring a unique perspective to computational biology, constantly seeking 
-      innovative solutions to complex problems.
-    
-      I have publications in renowned journals for the work done during my M. Tech. and PhD studies, as well as hackathons. 
-      I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a 
-      morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library and exploring further research 
-      prospects of this data for drug discovery.
+               I have publications in renowned journals for the work done during my M. Tech. and PhD studies, as well as hackathons. 
+               I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a 
+               morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library and exploring further research 
+               prospects of this data for drug discovery.
 
 
 education:
