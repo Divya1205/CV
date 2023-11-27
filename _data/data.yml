@@ -74,7 +74,7 @@ education:
       - degree: M.Tech. in Communications and Signal Processing
         university: Indraprastha Institute of Information Technology, Delhi, India
         time: 2015 - 2017
-        details: 
+        details: |
           - M. Tech. Thesis titled Visual Tracking using Analysis Dictionary Learning.
           - The main area of research was Computer Vision and Machine Learning.
           - Supervisors were Dr. A.V. Subramanyam, Dr. Angshul Majumdar.
@@ -90,11 +90,7 @@ Work experience:
       - role: Researcher
         time: 1.04.2023 - Present
         company: Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany
-        details: |
-            - Phenotypic drug discovery through cell painting profiles using Machine Learning and AI
-            - Unsupervised learning and clustering to discover biological patterns and relevant Modes of Action data in cell painting data from two cell cancer lines, across multiple partner sites.
-            - Assisting my colleagues in publishing a morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library 
-            - exploring clusters for MOA/targets in this cell painting data for drug discovery.
+        
             
       - role: Senior Software Engineer
         time: 2014 - 2015
