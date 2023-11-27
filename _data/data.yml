@@ -1,192 +1,119 @@
-#
 # Be aware that even a small syntax error here can lead to failures in output.
-#
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar: left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Divya Sitani
-    tagline: Researcher in Computational Biomedicine
-    avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Divya Sitani
+  tagline: Researcher in Computational Biomedicine
+  avatar: profile2.jpg  # Place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: jrpcsitani@gmail.com
-    #phone: 012 345 6789
-    #timezone: America/Cancun Timezone
-    #citizenship:
-    website: researchgate.net/profile/Divya-Sitani/research #do not add http://
-    linkedin: divya-sitani-868216152
-    #xing: alandoe
-    github: Divya1205
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: divya_sitani
-    stack-overflow: 14068444/divya-sitani # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: #http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: jrpcsitani@gmail.com
+  # Other commented fields
+  website: researchgate.net/profile/Divya-Sitani/research # Do not add http://
+  linkedin: divya-sitani-868216152
+  github: Divya1205
+  # Other commented fields
+  stack-overflow: 14068444/divya-sitani # Number/Username, e.g. 123456/alandoe
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional
+      - idiom: Hindi
+        level: Native
+    # Other commented fields
 
-        - idiom: Hindi
-          level: Native
+  interests:
+    title: Interests
+    info:
+      - item: participating in Hackathons
+        link: # Link if available
+      - item: Writing
+        link: # Link if available
+    # Other commented fields
 
-       # - idiom: #Spanish
-       #   level: #Professional
+  career_profile:
+    title: Career Summary
+    summary: |
+      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin.
+      - My academic journey includes a PhD from Forschungszentrum Juelich, Germany and the Department of Biology, RWTH Aachen. This journey has been a blend of rigorous research in the use of ML/AI for protein-protein interaction applications and mentorship of pre-university students, especially during my tenure as a Group Leader at summer camps organized by miRcore, University of Michigan. My thesis defense is scheduled for 16, January, 2024.
+      - I actively engage in international conferences and hackathons in the fields of application of AI/ML for bio-image analysis, drug discovery, and computational biomedicine. This engagement helps me stay connected with the latest in the field, constantly working on new and challenging problems, and networking with like-minded individuals. With a strong background in electronics and communications engineering, I bring a unique perspective to computational biology, constantly seeking innovative solutions to complex problems.
+      - I have publications in renowned journals for the work done during my M. Tech. and PhD studies, as well as hackathons. I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library and exploring further research prospects of this data for drug discovery.
 
-    interests:
-      title: Interests
-      info:
-        - item: participating in Hackathons
-          link:
-
-        - item: Writing
-          link:
-
-        #- item: Cooking
-         # link:
-
-   career_profile:
-     title: Career Summary
-     summary: 
-      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, 
-        currently focused on leveraging machine learning techniques for morphological profiling and cell painting at 
-        Leibniz-Forschungsinstitut für Molekulare Pharmakologie in Berlin.
-    
-      - My academic journey includes a PhD from Forschungszentrum Juelich, Germany and the Department of Biology, RWTH Aachen. 
-        This journey has been a blend of rigorous research in the use of ML/AI for protein-protein interaction applications and 
-        mentorship of pre-university students, especially during my tenure as a Group Leader at summer camps organized by 
-        miRcore, University of Michigan. My thesis defense is scheduled for 16, January, 2024.
-    
-      - I actively engage in international conferences and hackathons in the fields of application of AI/ML for bio-image analysis, 
-        drug discovery, and computational biomedicine. This engagement helps me stay connected with the latest in the field, 
-        constantly working on new and challenging problems, and networking with like-minded individuals. With a strong background 
-        in electronics and communications engineering, I bring a unique perspective to computational biology, constantly seeking 
-        innovative solutions to complex problems.
-    
-      - I have publications in renowned journals for the work done during my M. Tech. and PhD studies, as well as hackathons. 
-        I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a 
-        morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library and exploring further research 
-        prospects of this data for drug discovery.
-
-
+# ... continuation from career_profile section
 
 education:
-    title: Education
-    info:
-      - degree: PhD in Computational Biomedicine
-        university: Forschungszentrum Juelich and Department of Biology, RWTH Aachen Germany.
-        time: 2017 - 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Education
+  info:
+    - degree: PhD in Computational Biomedicine
+      university: Forschungszentrum Juelich and Department of Biology, RWTH Aachen Germany.
+      time: 2017 - 2023
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Experiences
+  info:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 
 certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+  title: Certifications
+  list:
+    - name: CV Builder
+      start: 2020
+      end: 2021
+      organization: Microsoft
+      credentialid: 111-222
+      credentialurl: www.google.com
+      credentialname: Google
+      details: |
+        Details about cert. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget orci purus. Nullam ultrices neque nibh. Aenean fermentum, felis vulputate suscipit accumsan, sem enim bibendum augue, sed convallis arcu lacus at dui. Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. Praesent felis nibh, eleifend id eleifend id, dictum id enim. Praesent venenatis erat non augue suscipit consectetur.
+        Second paragraph. Sed eleifend enim ante, vitae efficitur purus fringilla vel. Ut euismod, sem sed vulputate venenatis, justo diam viverra velit, sed rhoncus leo leo eu justo. Suspendisse placerat risus ante, sed porta nisi blandit at.
+    - name: Git learning
+      start: 2019
+      end:
+      organization: Microsoft
+      credentialid: 111-222
+      credentialurl: www.github.com
+      credentialname: Github
+      details: |
+        Older certification. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget orci purus. Nullam ultrices neque nibh. Aenean fermentum, felis vulputate suscipit accumsan, sem enim bibendum augue, sed convallis arcu lacus at dui. Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor. Praesent felis nibh, eleifend id eleifend id, dictum id enim. Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+# ... continuation with projects, oss, publications, skills, and footer sections
 projects:
     title: Projects
     intro: >
@@ -279,3 +206,4 @@ skills:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
