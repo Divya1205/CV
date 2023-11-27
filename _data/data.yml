@@ -67,7 +67,7 @@ education:
       - degree: PhD in Computational Biomedicine
         university: Forschungszentrum Juelich and Department of Biology, RWTH Aachen Germany
         time: 2017 - 2023
-        details: 
+        details: |
           - PhD Thesis titled Machine learning methods for prediction of protein-protein interactions hot spot residues.
           - Supervisors: Prof. Dr Paolo Carloni, Prof. Dr. Geraldine Zimmer-Bensch.
           - Thesis Defense: 16th January 2024.
@@ -90,7 +90,7 @@ Work experience:
       - role: Researcher
         time: 1.04.2023 - Present
         company: Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany
-        details: 
+        details: |
             - Phenotypic drug discovery through cell painting profiles using Machine Learning and AI
             - Unsupervised learning and clustering to discover biological patterns and relevant Modes of Action data in cell painting data from two cell cancer lines, across multiple partner sites.
             - Assisting my colleagues in publishing a morphological profiling dataset generated with the EU-OPENSCREEN bioactive compound library 
