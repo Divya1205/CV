@@ -50,7 +50,7 @@ sidebar:
         - item: Writing
           link:
 
-        - item: #Cooking
+        - item: Teaching
           link:
 
 career-profile:
@@ -142,13 +142,27 @@ experiences:
             - I was hosted by [Prof. Dr. Ira assent](https://pure.au.dk/portal/en/persons/ira-assent(012c1c28-bfa9-4107-bd8f-97dae008b06d).html) to research the application of ML in particular [ensemble methods](https://link.springer.com/chapter/10.1007/3-540-45014-9_1) for my PhD thesis.
             - I gave a presentation titled: [Impact of disease-associated variants in the protein interactome at the human synapse](https://cs.au.dk/da/news-events/arrangementer/vis-event/artikel/theory-seminar-divya-sitani-impact-of-disease-associated-variants-in-the-protein-interactome-at-the-human-synapse) at the computer science department at Aarhus University
             
-      - role: Visiting PhD Researcher
-        time: 01.10.2018-30.11.2018
-        company: Data-Intensive Systems, Department of Computer Science, Aarhus University Denmark.
+      - role: Graduate Research Intern
+        time: 01.05.2017-15.07.2017
+        company: Tata Consultancy Services Research and Innovation, Bangalore, India.
         details: |
-            - 
+            - Project: Co-training with bilateral views for video object segmentation and Supervisor: Dr. Hrishikesh Sharma
+      - role: Teaching Assistant
+        time: 01.08.2015-30.04.2017
+        company: Indraprastha Institute of Information Technology, Delhi, India
+        details: |
+            - Teaching Assistant for Linear Algebra, Probability and Statistics, Multivariable Calculus and Complex variables during my M.Tech studies.
+            - Helped the course professors with mentoring tutorial sessions (therotical and coding) and also grading the course assignments and exams.
+    
+    - role: M.Tech. Thesis 
+        time: 01.07.2015-22.08.2017
+        company: Indraprastha Institute of Information Technology, Delhi, India
+        details: |
+            - M. Tech. Thesis titled Visual Tracking using Analysis Dictionary Learning.
+            - The main area of research was Computer Vision and Machine Learning and supervisors were Dr. A.V. Subramanyam, Dr. Angshul Majumdar.
+    
 certifications:
-      title: Certifications
+      title: 
       list:
         - name: CV Builder
           start: 2020
