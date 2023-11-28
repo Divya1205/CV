@@ -110,15 +110,13 @@ experiences:
 
       - role: PhD Researcher
         time: 06.10.2017 - 31.03.2023
-        company: Google, London
+        company: Computational Biomedicine, Forschungszentrum Juelich and Department of Biology, RWTH Aachen, Germany
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - My PhD thesis was titled: Machine learning methods for prediction of protein-protein interactions hotspot residues.
+            - The hot spots are key residues for protein- protein binding. Their identification may shed light on the impact of disease associated mutations on protein complexes and help design protein-protein interaction inhibitors for therapy
+            - I developed a pipeline that reduces noise from biological data repositories using [Robust Principal component analysis](https://arxiv.org/abs/0912.3599), then performs dimensionality reduction using [Extreme Gradient boosting](https://arxiv.org/abs/1603.02754). 
+            - I applied this pipeline to the relevant data containing sequence and structure based features of protein-protein interation residues to get reduced data.
+            - I then trained and validated ML classifiers on this reducded data and finally predicted hot spot residues on an independent test set to quantify the predictive power of my pipeline when used with ML classifiers.  
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
