@@ -120,18 +120,20 @@ experiences:
             - During my PhD studies I have participated in a plethora of Deep Learning, Machine Learning, Computational biology and Bioinformatics conferences, workshops and schools. 
             - I presented my poster in Summer School on Machine Learning in Drug Design at K. U. Leuven titled “Impact of Disease associated variants in the protein interactome at the human synapse” in August, 2018.
             - I gave an oral presentation titled “RPCA (Robust Principal Component Analysis) based approach for protein-protein interaction hot-spot prediction” at the [AdvCompBio 2019](https://www.iscb.org/advcompbio2019) in Barcelona in November, 2019
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+     
+      - role: Visiting PhD Researcher
+        time: 01.10.2018-30.11.2018
+        company: Data-Intensive Systems, Department of Computer Science, Aarhus University Denmark.
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            - I was hosted by [Prof. Dr. Ira assent](https://pure.au.dk/portal/en/persons/ira-assent(012c1c28-bfa9-4107-bd8f-97dae008b06d).html) to research the application of ML and dimensionality reduction methods for my PhD thesis.
+            - I gave a presentation titled: [Impact of disease-associated variants in the protein interactome at the human synapse](https://cs.au.dk/da/news-events/arrangementer/vis-event/artikel/theory-seminar-divya-sitani-impact-of-disease-associated-variants-in-the-protein-interactome-at-the-human-synapse) at the computer science department at Aarhus University
+            
+      - role: Visiting PhD Researcher
+        time: 01.10.2018-30.11.2018
+        company: Data-Intensive Systems, Department of Computer Science, Aarhus University Denmark.
+        details: |
+            - I was hosted by [Prof. Dr. Ira assent](https://pure.au.dk/portal/en/persons/ira-assent(012c1c28-bfa9-4107-bd8f-97dae008b06d).html) to research the application of ML and dimensionality reduction methods for my PhD thesis.
+            - I gave a presenta
 certifications:
       title: Certifications
       list:
