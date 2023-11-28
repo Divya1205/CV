@@ -85,7 +85,7 @@ education:
           
 
 experiences:
-    title: Work Experience
+    title: Work Experiences
     info:
       - role: Researcher
         time: 01.04.2023 - Present
@@ -121,7 +121,6 @@ experiences:
             - We learned that LIHC is an aggressive form of cancer with a low chance of survival once the disease has progressed and ee found genes related to unregulated miRNAs including CDKs and RAS genes.
             - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning using Random Forests.
 
-
       - role: PhD Researcher
         time: 06.10.2017 - 31.03.2023
         company: Computational Biomedicine, Forschungszentrum Juelich and Department of Biology, RWTH Aachen, Germany
@@ -154,7 +153,7 @@ experiences:
             - Teaching Assistant for Linear Algebra, Probability and Statistics, Multivariable Calculus and Complex variables during my M.Tech studies.
             - Helped the course professors with mentoring tutorial sessions (therotical and coding) and also grading the course assignments and exams.
     
-    - role: M.Tech. Thesis 
+      - role: M.Tech. Thesis 
         time: 01.07.2015-22.08.2017
         company: Indraprastha Institute of Information Technology, Delhi, India
         details: |
@@ -162,7 +161,7 @@ experiences:
             - The main area of research was Computer Vision and Machine Learning and supervisors were Dr. A.V. Subramanyam, Dr. Angshul Majumdar.
     
 certifications:
-      title: 
+      title: certifications
       list:
         - name: CV Builder
           start: 2020
@@ -230,11 +229,11 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Honours and Awards 
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      #You can list your open source software contributions in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
       - title: Tempo
         link: "#"
