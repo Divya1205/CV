@@ -103,7 +103,8 @@ experiences:
             - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in each camp.
             - Helped students finish a research project within one week, while learning and applying new computational biology tools every day. 
             - In the CB camp, we researched Biomarkers in Breast Cancer with my group.
-            - We used 
+            - The tools and lectures included [OMIM](https://www.omim.org/), [UCSC Genome Browser](https://genome.ucsc.edu/ ), Probability and Statistics, RNA expression and microarrays, GEOR, [GEO2R] (https://www.ncbi.nlm.nih.gov/geo/geo2r/), 
+              [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI and 
       - role: PhD Researcher
         time: 06.10.2017 - 31.03.2023
         company: Google, London
