@@ -102,9 +102,12 @@ experiences:
             - Group leader for virtual [Computational Biology (CB) Summer Camp](https://www.mircore.org/2023-cb-camp/) and [Machine Learning with R summer camp](https://www.mircore.org/2023-r-camp/).
             - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in each camp.
             - Helped students finish a research project within one week, while learning and applying new computational biology tools every day. 
-            - In the CB camp, we researched Biomarkers in Breast Cancer with my group.
-            - The tools and lectures included [OMIM](https://www.omim.org/), [UCSC Genome Browser](https://genome.ucsc.edu/ ), Probability and Statistics, RNA expression and microarrays, GEOR, [GEO2R](https://www.ncbi.nlm.nih.gov/geo/geo2r/), 
-              [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI and 
+            - In the CB camp, we researched genes of interest in Breast Cancer and answer questions related to the pathway, enrichment analysis of these genes with my group.
+            - The tools and lectures in CB camp included [OMIM](https://www.omim.org/), [UCSC Genome Browser](https://genome.ucsc.edu/ ), Probability and Statistics, RNA expression and microarrays, GEOR, [GEO2R](https://www.ncbi.nlm.nih.gov/geo/geo2r/), 
+              [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI.
+            - In the R camp, we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers and categorized cancer samples using microRNA expression data from TCGA (The Cancer Genome Atlas).
+            - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning.
+
       - role: PhD Researcher
         time: 06.10.2017 - 31.03.2023
         company: Google, London
