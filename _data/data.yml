@@ -107,6 +107,20 @@ experiences:
               [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI.
             - In the R camp, we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers and categorized cancer samples using microRNA expression data from TCGA (The Cancer Genome Atlas).
             - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning.
+            
+      - role: Group Leader 
+        time: 01.06.2022 - 31.08.2022
+        company: miRcore (University of Michigan) 
+        details: |
+            - Group leader for two virtual Computational Biology (CB) Summer Camps and one Machine Learning with R summer camp.
+            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in each camp.
+            - In the CB camp, we researched genes of interest in Pancreatic Cancer and in the second CB camp, we researched Biomarkers in Multiple Sclerosis and we answered questions related to the pathway, enrichment analysis of these genes in my group.
+            - The tools and lectures in CB camps are similar to the ones used in 2023 mircore CB camp mentioned above.
+            - In the R camp, as in 2023 we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers.
+            - We studied important miRNAs marking the disease using a data table containing miRNAs and tumor samples control samples and we determined significant miRNA, using the smallest p values. 
+            - We learned that LIHC is an aggressive form of cancer with a low chance of survival once the disease has progressed and ee found genes related to unregulated miRNAs including CDKs and RAS genes.
+            - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning using Random Forests.
+
 
       - role: PhD Researcher
         time: 06.10.2017 - 31.03.2023
@@ -132,8 +146,7 @@ experiences:
         time: 01.10.2018-30.11.2018
         company: Data-Intensive Systems, Department of Computer Science, Aarhus University Denmark.
         details: |
-            - I was hosted by [Prof. Dr. Ira assent](https://pure.au.dk/portal/en/persons/ira-assent(012c1c28-bfa9-4107-bd8f-97dae008b06d).html) to research the application of ML and dimensionality reduction methods for my PhD thesis.
-            - I gave a presenta
+            - 
 certifications:
       title: Certifications
       list:
