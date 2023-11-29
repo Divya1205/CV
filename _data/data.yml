@@ -220,19 +220,32 @@ oss:
       #You can list your open source software contributions in this
       #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     contributions:
-      - title: Tempo
+      - title: 
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
+        tagline: 
+        - Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
+      - title: 
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
+        tagline: 
+        - Winner of Cytodata 2023 Hackathon organised by University of Helsinki.
+      - title: 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        tagline: 
+        - Honorable Mention for progress towards a particularly challenging problem and $100 in CSBC/PS-ON Image Analysis Hackathon 2022.
+      - title: 
+        link: "#"
+        tagline: 
+        - 98.57 percentile (611 Score) in GATE (Graduate Aptitude Test in Engineering in India) in Electronics Engineering, 2015.
+      - title: 
+        link: "#"
+        tagline: 
+        - Graduated with 82.24% and 1st Division with Honours in B.Tech. 2015.
+      - title: 
+        link: "#"
+        tagline: 
+        - Received a scholarship of INR 40,000 (approx. 500 Euros) annually for 4 years (2011-2015) during graduation on the basis of B. Tech. entrance exam rank.
 publications:
     title: Publications
     intro: |
