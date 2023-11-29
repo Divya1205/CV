@@ -90,35 +90,36 @@ experiences:
             - Unsupervised learning and clustering to discover biological patterns and relevant Modes of Action data in cell painting data from two cell cancer lines, across multiple partner sites.
             - I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a morphological profiling dataset generated with the [EU-OPENSCREEN bioactive compound library](https://www.eu-openscreen.eu/services/compound-collection/european-chemical-biology-library-ecbl-pilot-library.html) and exploring the clusters in this cell painting data for further research prospects of this data for drug discovery.
 
-      - role: Group Leader for virtual [Computational Biology (CB) Summer Camp](https://www.mircore.org/2023-cb-camp/)
+      - role: Group Leader 
         time: 12.06.2023 - 30.06.2023
         company: miRcore (University of Michigan) 
         details: |
-            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week.
+            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week at virtual [Computational Biology (CB) Summer Camp](https://www.mircore.org/2023-cb-camp/).
             - Helped students finish a research project within one week, while learning and applying new computational biology tools every day. 
             - In the CB camp, we researched genes of interest in Breast Cancer and answer questions related to the pathway, enrichment analysis of these genes with my group.
             - The tools and lectures in CB camp included [OMIM](https://www.omim.org/), [UCSC Genome Browser](https://genome.ucsc.edu/ ), Probability and Statistics, RNA expression and microarrays, GEOR, [GEO2R](https://www.ncbi.nlm.nih.gov/geo/geo2r/), 
               [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI.
            
-     - role: Group Leader for [Machine Learning with R summer camp](https://www.mircore.org/2023-r-camp/)
+     - role: Group Leader 
         time: 01.07.2023 - 14.07.2023
         company: miRcore (University of Michigan) 
         details: |
-            - Supervised a group of 6 pre-university students in computational biomedicine research using R and machine learning for one week.
+            - Supervised a group of 6 pre-university students in computational biomedicine research using R and machine learning for one week at virtual [Machine Learning with R summer camp](https://www.mircore.org/2023-r-camp/).
             - In the R camp, we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers and categorized cancer samples using microRNA expression data from TCGA (The Cancer Genome Atlas).
             - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning.       
-      - role: Group Leader for two virtual Computational Biology (CB) Summer Camps
+      - role: Group Leader 
         time: 01.06.2022 - 31.07.2022
         company: miRcore (University of Michigan) 
         details: |
-            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in each camp.
+            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in two virtual Computational Biology (CB) Summer camps.
             - In the first CB camp, we researched genes of interest in Pancreatic Cancer and in the second CB camp, we researched Biomarkers in Multiple Sclerosis and we answered questions related to the pathway, enrichment analysis of these genes in my group.
             - The tools and lectures in CB camps are similar to the ones used in 2023 mircore CB camp mentioned above.
             
-      - role: Group Leader for Machine Learning with R summer camp
+      - role: Group Leader 
         time: 01.06.2022 - 31.07.2022
         company: miRcore (University of Michigan) 
         details: |
+            - Supervised a group of 6 pre-university students in computational biomedicine research at virtual Machine Learning with R summer camp.
             - In the R camp, as in 2023 we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers.
             - We studied important miRNAs marking the disease using a data table containing miRNAs and tumor samples control samples and we determined significant miRNA, using the smallest p values. 
             - We learned that LIHC is an aggressive form of cancer with a low chance of survival once the disease has progressed and ee found genes related to unregulated miRNAs including CDKs and RAS genes.
