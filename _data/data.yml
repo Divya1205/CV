@@ -155,31 +155,6 @@ experiences:
             - M. Tech. Thesis titled Visual Tracking using Analysis Dictionary Learning.
             - The main area of research was Computer Vision and Machine Learning and supervisors were [Dr. A.V. Subramanyam](https://vcg.iiitd.edu.in/team/) and [Dr. Angshul Majumdar](https://salsa.iiitd.edu.in/members.html).
     
-#certifications:
-#      title: Conferences and Seminars
- #     list:
-#        #- name: "- Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon."
- #       - name: 
- #         details: |
- #            - Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon."
- #        - name: 
- #          details: |
-            - Attended Artificial Intelligence For Science Bootcamp by NVIDIA/LRZ, 2022.
-  #       - name: 
-  #         details: |
-   #          - Attended Online course on HPC-based Computational Bio-Medicine at Barcelona Supercomputing Center, 2022.
-    #     - name: 
-     #      details: |
-            - Attended Computational biology course by Center for Neuroscience and Cell Biology (CNC), University of Coimbra, 2022.
-      #   - name: 
-      #     details: |
-            - Gave an oral presentation “RPCA (Robust Principal Component Analysis) based approach for protein protein interaction hot-spot prediction” at the AdvCompBio 2019 in Barcelona in November, 2019.
-       #  - name: 
-       #    details: |
-            - Attended DeepLearn 2019, 3rd international summer school on Deep Learning in Warsaw in July 2019.
-       #  - name: 
-        #   details: |
-        #     - Presented a poster in Summer School on Machine Learning in Drug Design at K. U. Leuven: “Impact of Disease associated variants in the protein interactome at the human synapse” in August, 2018.
 
 
 projects:
@@ -192,9 +167,9 @@ projects:
       - title: Cytodata 2023 Hackathon
         link:   github.com/Divya1205/CytoData-Hackathon-2023
         tagline: "The dataset comprised of multiplexed fluorescence microscopy images of renal cancer tissue samples. Worked in a team of 4 to develop and apply methods to profile these samples for instance to predict cancer aggressiveness. The dataset included approximately 100 cases and about 500 multi-channel 4k x 4k images (~80GB of image data) in three core locations: Benign, Tumor center and Tumor Border. The access to GPU computing resources and the data in Jupyter environment was provided. I worked on finding the effect of core location on cancer stage prediction and used aggregated feature importance to find markers of renal cancer in different core locations. I won the hackathon for this task along with my team."
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Her Hackathon 2023
+        link: https://github.com/Divya1205/Her-Hackathon-2023
+        tagline: "The challenge was redefining the role of skin in menstrual health, and the challenge setter was Beiersdorf, with a team size of 5. Developed a virtual AI wellness specialist, Linda, utilizing data from Beiersdorf's Skinly database, established scientific research on how the skin parameters changes relate to hormonal changes during menstrual cycle, and individual preferences of each user. Through Linda, my team and I wanted to help women to experience enhanced skin comfort throughout their menstrual cycle."
 
       - title: Tempo
         link: "#"
