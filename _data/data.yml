@@ -252,9 +252,9 @@ publications:
     intro: |
       papers:
       - Addressing persistent challenges in digital image analysis of cancerous tissues.
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        link: "https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1"
+        authors: Prabhakaran et al. & Participants of the Cell Imaging Hackathon 2022
+        conference: bioRxiv, 2023
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
