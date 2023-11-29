@@ -165,7 +165,7 @@ certifications:
       list:
         - name: "Cytodata 2023, University of Helsinki"
           details: |
-             Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023 and was selected for the image analysis Hackathon.
+             - Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023 and was selected for the image analysis Hackathon.
         - name: Git learning
           start: 2019
           end:
