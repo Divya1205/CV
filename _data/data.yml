@@ -224,27 +224,27 @@ oss:
     contributions:
       - title: 
         link: "#"
-        tagline: |
-        - Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
+        details: |
+         Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
       - title: 
         link: "#"
-        tagline: |
+        tagline: 
         - Winner of Cytodata 2023 Hackathon organised by University of Helsinki.
       - title: 
         link: "#"
-        tagline: |
+        tagline: 
         - Honorable Mention for progress towards a particularly challenging problem and $100 in CSBC/PS-ON Image Analysis Hackathon 2022.
       - title: 
         link: "#"
-        tagline: |
+        tagline: 
         - 98.57 percentile (611 Score) in GATE (Graduate Aptitude Test in Engineering in India) in Electronics Engineering, 2015.
       - title: 
         link: "#"
-        tagline: |
+        tagline: 
         - Graduated with 82.24% and 1st Division with Honours in B.Tech. 2015.
       - title: 
         link: "#"
-        tagline: |
+        tagline: 
         - Received a scholarship of INR 40,000 (approx. 500 Euros) annually for 4 years (2011-2015) during graduation on the basis of B. Tech. entrance exam rank.
 publications:
     title: Publications
