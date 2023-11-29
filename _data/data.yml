@@ -163,23 +163,11 @@ experiences:
 certifications:
       title: Conferences and Seminars
       list:
-        - name: "- Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon."
-        - name: ""
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+        #- name: "- Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon."
+        - name: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon."
+        
 
 
 projects:
