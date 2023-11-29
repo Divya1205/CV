@@ -241,28 +241,28 @@ oss:
     contributions:
       - title: "Women in Bioinformatics and Data Science, LA Conference, 2022"
         link: "#"
-        details: 
+        tagline: 
         - "Member of Review Committee."
-      - title: "Cytodata 2023 Hackathon, University of Helsinki"
+      - title: "Cytodata 2023, University of Helsinki"
         link: "#"
-        details: 
-        - "Winner of Cytodata 2023 Hackathon."
+        tagline: 
+        - "Winner of Image Analysis Hackathon."
       - title: "CSBC/PS-ON Image Analysis Hackathon 2022"
         link: "#"
-        details: 
+        tagline: 
         - "Received Honorable Mention for progress towards a particularly challenging problem."
         - "Awarded $100."
       - title: "GATE 2015 - Electronics Engineering"
         link: "#"
-        details: 
+        tagline: 
         - "Achieved 98.57 percentile (611 Score)."
       - title: "B.Tech Graduation, 2015"
         link: "#"
-        details: 
+        tagline: 
         - "Graduated with 82.24% and 1st Division with Honours."
       - title: "Undergraduate Scholarship"
         link: "#"
-        details: 
+        tagline: 
         - "Received a scholarship of INR 40,000 (approx. 500 Euros) annually for 4 years (2011-2015) based on entrance exam rank."
 
 publications:
