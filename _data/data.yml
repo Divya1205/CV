@@ -162,7 +162,7 @@ experiences:
     
 certifications:
       title: Conferences and Seminars
-      list:
+      details:
         - Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon.
         - Attended Artificial Intelligence For Science Bootcamp by NVIDIA/LRZ, 2022.
         - Attended Online course on HPC-based Computational Bio-Medicine at Barcelona Supercomputing Center, 2022.
