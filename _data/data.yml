@@ -161,15 +161,34 @@ experiences:
             - The main area of research was Computer Vision and Machine Learning and supervisors were [Dr. A.V. Subramanyam](https://vcg.iiitd.edu.in/team/) and [Dr. Angshul Majumdar](https://salsa.iiitd.edu.in/members.html).
     
 certifications:
-      title: Conferences and Seminars
-      details:
-        - Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon.
-        - Attended Artificial Intelligence For Science Bootcamp by NVIDIA/LRZ, 2022.
-        - Attended Online course on HPC-based Computational Bio-Medicine at Barcelona Supercomputing Center, 2022.
-        - Attended Computational biology course by Center for Neuroscience and Cell Biology (CNC), University of Coimbra, 2022.
-        - Gave an oral presentation “RPCA (Robust Principal Component Analysis) based approach for protein protein interaction hot-spot prediction” at the AdvCompBio 2019 in Barcelona in November, 2019.
-        - Attended DeepLearn 2019, 3rd international summer school on Deep Learning in Warsaw in July 2019.
-        - Presented a poster in Summer School on Machine Learning in Drug Design at K. U. Leuven: “Impact of Disease associated variants in the protein interactome at the human synapse” in August, 2018.
+  title: Conferences and Seminars
+  details:
+    - event: "Cytodata 2023, University of Helsinki"
+      date: "October 2023"
+      description: "Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023 and was selected for the image analysis Hackathon."
+    - event: "Artificial Intelligence For Science Bootcamp by NVIDIA/LRZ"
+      date: "2022"
+      description: "Attended the AI for Science Bootcamp."
+    - event: "Online course on HPC-based Computational Bio-Medicine"
+      institution: "Barcelona Supercomputing Center"
+      date: "2022"
+      description: "Participated in an online course on high-performance computing in bio-medicine."
+    - event: "Computational Biology Course"
+      institution: "Center for Neuroscience and Cell Biology (CNC), University of Coimbra"
+      date: "2022"
+      description: "Attended a course on computational biology."
+    - event: "AdvCompBio 2019"
+      location: "Barcelona"
+      date: "November 2019"
+      description: "Gave an oral presentation on 'RPCA based approach for protein-protein interaction hot-spot prediction'."
+    - event: "DeepLearn 2019"
+      location: "Warsaw"
+      date: "July 2019"
+      description: "Participated in the 3rd international summer school on Deep Learning."
+    - event: "Summer School on Machine Learning in Drug Design"
+      institution: "K. U. Leuven"
+      date: "August 2018"
+      description: "Presented a poster on 'Impact of Disease associated variants in the protein interactome at the human synapse'."
 
 
 projects:
