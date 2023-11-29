@@ -161,45 +161,16 @@ experiences:
             - The main area of research was Computer Vision and Machine Learning and supervisors were [Dr. A.V. Subramanyam](https://vcg.iiitd.edu.in/team/) and [Dr. Angshul Majumdar](https://salsa.iiitd.edu.in/members.html).
     
 certifications:
-      title: certifications
+      title: Conferences and Seminars
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023, University of Helsinki, in October 2023 and was selected for the image analysis Hackathon.
+        - name: Attended Artificial Intelligence For Science Bootcamp by NVIDIA/LRZ, 2022.
+        - name: Attended Online course on HPC-based Computational Bio-Medicine at Barcelona Supercomputing Center, 2022.
+        - name: Attended Computational biology course by Center for Neuroscience and Cell Biology (CNC), University of Coimbra, 2022.
+        - name: Gave an oral presentation “RPCA (Robust Principal Component Analysis) based approach for protein protein interaction hot-spot prediction” at the AdvCompBio 2019 in Barcelona in November, 2019.
+        - name: Attended DeepLearn 2019, 3rd international summer school on Deep Learning in Warsaw in July 2019.
+        - name: Presented a poster in Summer School on Machine Learning in Drug Design at K. U. Leuven: “Impact of Disease associated variants in the protein interactome at the human synapse” in August, 2018.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
@@ -252,19 +223,19 @@ publications:
     intro: |
       papers:
       - Addressing persistent challenges in digital image analysis of cancerous tissues, 
-        [doi: 10.1101/2023.07.21.548450](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)
-        Prabhakaran et al. & Participants of the Cell Imaging Hackathon 2022
-        bioRxiv, 2023
+        doi:[10.1101/2023.07.21.548450](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)
+        Prabhakaran et al. & Participants of the Cell Imaging Hackathon 2022,
+        bioRxiv, 2023.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - Robust principal component analysis‐based prediction of protein‐protein interaction hot spots,
+        doi:[10.1002/prot.26047](https://doi.org/10.1002/prot.26047)
+        Sitani et al., 
+        Proteins: Structure, Function, and Bioinformatics 89, no. 6 (2021): 639-647.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - Online single and multiple analysis dictionary learning-based approach for visual object tracking
+        doi:[10.1117/1.JEI.28.1.013004](https://doi.org/10.1117/1.JEI.28.1.013004)
+        Sitani et al. ,
+        Journal of Electronic Imaging 28, no. 1 (2019): 013004.
 
 skills:
     title: Skills &amp; Proficiency
