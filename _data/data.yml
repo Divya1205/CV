@@ -161,34 +161,45 @@ experiences:
             - The main area of research was Computer Vision and Machine Learning and supervisors were [Dr. A.V. Subramanyam](https://vcg.iiitd.edu.in/team/) and [Dr. Angshul Majumdar](https://salsa.iiitd.edu.in/members.html).
     
 certifications:
-      title: Conferences and Seminars
+      title: Certifications
       list:
-    - event: "Cytodata 2023, University of Helsinki"
-      date: "October 2023"
-      description: "Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023 and was selected for the image analysis Hackathon."
-    - event: "Artificial Intelligence For Science Bootcamp by NVIDIA/LRZ"
-      date: "2022"
-      description: "Attended the AI for Science Bootcamp."
-    - event: "Online course on HPC-based Computational Bio-Medicine"
-      institution: "Barcelona Supercomputing Center"
-      date: "2022"
-      description: "Participated in an online course on high-performance computing in bio-medicine."
-    - event: "Computational Biology Course"
-      institution: "Center for Neuroscience and Cell Biology (CNC), University of Coimbra"
-      date: "2022"
-      description: "Attended a course on computational biology."
-    - event: "AdvCompBio 2019"
-      location: "Barcelona"
-      date: "November 2019"
-      description: "Gave an oral presentation on 'RPCA based approach for protein-protein interaction hot-spot prediction'."
-    - event: "DeepLearn 2019"
-      location: "Warsaw"
-      date: "July 2019"
-      description: "Participated in the 3rd international summer school on Deep Learning."
-    - event: "Summer School on Machine Learning in Drug Design"
-      institution: "K. U. Leuven"
-      date: "August 2018"
-      description: "Presented a poster on 'Impact of Disease associated variants in the protein interactome at the human synapse'."
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
 
 
 projects:
