@@ -251,7 +251,7 @@ publications:
     title: Publications
     intro: |
       papers:
-      - title: Addressing persistent challenges in digital image analysis of cancerous tissues.
+      - Addressing persistent challenges in digital image analysis of cancerous tissues.
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
