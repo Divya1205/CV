@@ -161,8 +161,8 @@ experiences:
             - The main area of research was Computer Vision and Machine Learning and supervisors were [Dr. A.V. Subramanyam](https://vcg.iiitd.edu.in/team/) and [Dr. Angshul Majumdar](https://salsa.iiitd.edu.in/members.html).
     
 certifications:
-  title: Conferences and Seminars
-  list:
+      title: Conferences and Seminars
+      list:
     - event: "Cytodata 2023, University of Helsinki"
       date: "October 2023"
       description: "Attended Cytodata (conference for image-based profiling of biological phenotypes) 2023 and was selected for the image analysis Hackathon."
@@ -261,22 +261,12 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
-
       - name: Javascript & jQuery
-        level: 98%
-
       - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
-        level: 95%
-
       - name: Ruby on Rails
-        level: 85%
-
       - name: Sketch & Photoshop
-        level: 60%
+        
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
