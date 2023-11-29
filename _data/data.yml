@@ -44,31 +44,7 @@ sidebar:
     interests:
       title: Skills and interests
       info:
-        - item: Machine Learning, Computational Biomedicine
-          link:
-
-        - item: Experience in Python, R and Matlab
-          link:
-
-        - item: Bioinformatics
-          link:
-        
-        - item: Pandas, Scikit-Learn, Matplotlib, Numpy
-          link:
-
-        - item: Deep Learning
-          link:
-
-        - item: Tensorflow, Pytorch
-          link:
-        
-        - item: Image analysis, morphological profiling
-          link:
-
-        - item: Knowledge Graphs, Neo4j
-          link:
-
-        - item: Teaching and Research. 
+        - item: Machine Learning, Computational Biomedicine, Experience in Python, R and Matlab, Bioinformatics, Pandas, Scikit-Learn, Matplotlib, Numpy, Tensorflow, Pytorch, Image analysis, morphological profiling, cell painting analysis, unsupervised learning, clustering, Knowledge Graphs, Neo4j, Git, Latex, Teaching and Research.
           link:
 
 
