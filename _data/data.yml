@@ -222,10 +222,10 @@ oss:
       #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
       
     contributions:
-      - title: 
+      - title: Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
         link: "#"
-        details: |
-         Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
+        #details: |
+         #Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
       - title: 
         link: "#"
         tagline: 
