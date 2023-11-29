@@ -42,16 +42,35 @@ sidebar:
         
 
     interests:
-      title: Interests
+      title: Skills and interests
       info:
-        - item: participating in Hackathons
+        - item: Machine Learning, Computational Biomedicine
           link:
 
-        - item: Writing
+        - item: Experience in Python, R and Matlab
           link:
 
-        - item: Teaching
+        - item: Bioinformatics
           link:
+        
+        - item: Pandas, Scikit-Learn, Matplotlib, Numpy
+          link:
+
+        - item: Deep Learning
+          link:
+
+        - item: Tensorflow, Pytorch
+          link:
+        
+        - item: Image analysis, morphological profiling
+          link:
+
+        - item: Knowledge Graphs, Neo4j
+          link:
+
+        - item: Teaching and Research. 
+          link:
+
 
 career-profile:
     title: Career Summary
@@ -225,7 +244,7 @@ oss:
       - title: 
         link: "#"
         details: 
-        . Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
+        - Member of Review Committee for Women in Bioinformatics and Data Science, LA conference, 2022.
       - title: 
         link: "#"
         tagline: 
