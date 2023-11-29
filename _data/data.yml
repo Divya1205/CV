@@ -90,31 +90,40 @@ experiences:
             - Unsupervised learning and clustering to discover biological patterns and relevant Modes of Action data in cell painting data from two cell cancer lines, across multiple partner sites.
             - I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a morphological profiling dataset generated with the [EU-OPENSCREEN bioactive compound library](https://www.eu-openscreen.eu/services/compound-collection/european-chemical-biology-library-ecbl-pilot-library.html) and exploring the clusters in this cell painting data for further research prospects of this data for drug discovery.
 
-      - role: Group Leader 
-        time: 12.06.2023 - 14.07.2023
+      - role: Group Leader for virtual [Computational Biology (CB) Summer Camp](https://www.mircore.org/2023-cb-camp/)
+        time: 12.06.2023 - 30.06.2023
         company: miRcore (University of Michigan) 
         details: |
-            - Group leader for virtual [Computational Biology (CB) Summer Camp](https://www.mircore.org/2023-cb-camp/) and [Machine Learning with R summer camp](https://www.mircore.org/2023-r-camp/).
-            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in each camp.
+            - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week.
             - Helped students finish a research project within one week, while learning and applying new computational biology tools every day. 
             - In the CB camp, we researched genes of interest in Breast Cancer and answer questions related to the pathway, enrichment analysis of these genes with my group.
             - The tools and lectures in CB camp included [OMIM](https://www.omim.org/), [UCSC Genome Browser](https://genome.ucsc.edu/ ), Probability and Statistics, RNA expression and microarrays, GEOR, [GEO2R](https://www.ncbi.nlm.nih.gov/geo/geo2r/), 
               [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI.
-            - In the R camp, we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers and categorized cancer samples using microRNA expression data from TCGA (The Cancer Genome Atlas).
-            - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning.
-            
-      - role: Group Leader 
-        time: 01.06.2022 - 31.08.2022
+           
+     - role: Group Leader for [Machine Learning with R summer camp](https://www.mircore.org/2023-r-camp/)
+        time: 01.07.2023 - 14.07.2023
         company: miRcore (University of Michigan) 
         details: |
-            - Group leader for two virtual Computational Biology (CB) Summer Camps and one Machine Learning with R summer camp.
+            - Supervised a group of 6 pre-university students in computational biomedicine research using R and machine learning for one week.
+            - In the R camp, we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers and categorized cancer samples using microRNA expression data from TCGA (The Cancer Genome Atlas).
+            - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning.       
+      - role: Group Leader for two virtual Computational Biology (CB) Summer Camps
+        time: 01.06.2022 - 31.07.2022
+        company: miRcore (University of Michigan) 
+        details: |
             - Supervised a group of 6 pre-university students in performing computational biomedicine research for one week in each camp.
-            - In the CB camp, we researched genes of interest in Pancreatic Cancer and in the second CB camp, we researched Biomarkers in Multiple Sclerosis and we answered questions related to the pathway, enrichment analysis of these genes in my group.
+            - In the first CB camp, we researched genes of interest in Pancreatic Cancer and in the second CB camp, we researched Biomarkers in Multiple Sclerosis and we answered questions related to the pathway, enrichment analysis of these genes in my group.
             - The tools and lectures in CB camps are similar to the ones used in 2023 mircore CB camp mentioned above.
+            
+      - role: Group Leader for Machine Learning with R summer camp
+        time: 01.06.2022 - 31.07.2022
+        company: miRcore (University of Michigan) 
+        details: |
             - In the R camp, as in 2023 we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers.
             - We studied important miRNAs marking the disease using a data table containing miRNAs and tumor samples control samples and we determined significant miRNA, using the smallest p values. 
             - We learned that LIHC is an aggressive form of cancer with a low chance of survival once the disease has progressed and ee found genes related to unregulated miRNAs including CDKs and RAS genes.
             - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning using Random Forests.
+
 
       - role: PhD Researcher
         time: 06.10.2017 - 31.03.2023
@@ -125,6 +134,7 @@ experiences:
             - I developed a pipeline that reduces noise from biological data repositories using [Robust Principal component analysis](https://arxiv.org/abs/0912.3599), then performs dimensionality reduction using [Extreme Gradient boosting](https://arxiv.org/abs/1603.02754). 
             - I applied this pipeline to the relevant data containing sequence and structure based features of protein-protein interation residues to get reduced data.
             - I then trained and validated ML classifiers on this reducded data and finally predicted hot spot residues on an independent test set to quantify the predictive power of my pipeline when used with ML classifiers.  
+            - The codes and data are publically available on [Github](https://github.com/Divya1205/RBHS_Sitani).
             - During my PhD studies I have participated in a plethora of Deep Learning, Machine Learning, Computational biology and Bioinformatics conferences, workshops and schools. 
             - I presented my poster in Summer School on Machine Learning in Drug Design at K. U. Leuven titled “Impact of Disease associated variants in the protein interactome at the human synapse” in August, 2018.
             - I gave an oral presentation titled “RPCA (Robust Principal Component Analysis) based approach for protein-protein interaction hot-spot prediction” at the [AdvCompBio 2019](https://www.iscb.org/advcompbio2019) in Barcelona in November, 2019
@@ -171,17 +181,17 @@ projects:
         link: https://github.com/Divya1205/Her-Hackathon-2023
         tagline: "The challenge was redefining the role of skin in menstrual health, and the challenge setter was Beiersdorf, with a team size of 5. Developed a virtual AI wellness specialist, Linda, utilizing data from Beiersdorf's Skinly database, established scientific research on how the skin parameters changes relate to hormonal changes during menstrual cycle, and individual preferences of each user. Through Linda, my team and I wanted to help women to experience enhanced skin comfort throughout their menstrual cycle."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Image analysis Hackathon 2022
+        link: "https://www.researchgate.net/publication/372606977_Addressing_persistent_challenges_in_digital_image_analysis_of_cancerous_tissues"
+        tagline: "I worked on the challenge Automated Artefact Removal for Cosmetic Purposes in the 2022 Image Analysis Hackathon, organized by Cancer Systems Biology Consortium (CSBC)/ Physical Sciences in Oncology (PS-ON) and my supervisor was Dr. Clarence Yapp and I worked in a team of 4. Removed artefacts from fluorescence microscopy images of serially sectioned colorectal cancer biopsy to improve human legibility using automated methods like pre-trained inpainting and Generative Adversarial Networks. I along with my team received an Honorable Mention from the Hackathon judges for our progress towards a particularly challenging problem, and the results of the hackathon have been published."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Her Hackathon 2022
+        link: "https://clever-croquembouche-61c5a6.netlify.app/index.html"
+        tagline: "The challenge I worked on was to ensure diversity and inclusion in clinical trials, and the challenge Setter was Merck Group and a team of 4. Developed a web application named "Tree of Life" tailored for Health Care Professionals (HCP). This tool aids in linking patients with Clinical Trials, while also enhancing participant diversity within these trials. The app incorporated a diversity index, guiding HCPs in identifying underrepresented ethnic, gender, or racial groups, encouraging the inclusion of these demographics. We used AI and network-centric methods to construct a network of health care professionals."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Juelich Data Challenges Hackathon 2021
+        link: "https://helmholtz-data-challenges.de/web/challenges/challenge-page/78/overview"
+        tagline: "I worked on was the 1000 Brains Study Dataset in a team size of 4 in the Juelich Challenges Hackathon 2021 organized by Forschungszentrum Juelich and my supervisor was Dr. Susanne Weis. I navigated graph-based machine learning methods to predict whether a participant is male or female based on pairwise functional brain connectivity across 436 brain parcels covering the whole brain. Functional magnetic resonance imaging (fMRI) data were acquired during the “resting state (RS)” of the participants’ brains are scanned while lying awake in the scanner with no specific instructions."
 
 
 
@@ -234,17 +244,7 @@ publications:
         Sitani et al. ,
         Journal of Electronic Imaging 28, no. 1 (2019): 013004.
 
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-      - name: Javascript & jQuery
-      - name: Angular
-      - name: HTML5 & CSS
-      - name: Ruby on Rails
-      - name: Sketch & Photoshop
-        
 
 #footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
