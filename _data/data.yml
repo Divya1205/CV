@@ -221,7 +221,7 @@ oss:
 publications:
     title: Publications
     intro: |
-      papers:
+      
       - Addressing persistent challenges in digital image analysis of cancerous tissues, 
         doi:[10.1101/2023.07.21.548450](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)
         Prabhakaran et al. & Participants of the Cell Imaging Hackathon 2022,
