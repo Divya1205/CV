@@ -83,7 +83,7 @@ experiences:
     title: Work Experiences
     info:
       - role: Researcher
-        time: 01.04.2023 - Present
+        time: 01.04.2023 - 31.10.2023
         company: Leibniz-Forschungsinstitut für Molekulare Pharmakologie, Berlin, Germany
         details: |
             - Phenotypic drug discovery through cell painting profiles using Machine Learning and AI.
@@ -171,9 +171,6 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Cytodata 2023 Hackathon
         link:   github.com/Divya1205/CytoData-Hackathon-2023
