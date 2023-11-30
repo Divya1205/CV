@@ -135,7 +135,7 @@ experiences:
             - I developed a pipeline that reduces noise from biological data repositories using [Robust Principal component analysis](https://arxiv.org/abs/0912.3599), then performs dimensionality reduction using [Extreme Gradient boosting](https://arxiv.org/abs/1603.02754). 
             - I applied this pipeline to the relevant data containing sequence and structure based features of protein-protein interation residues to get reduced data.
             - I then trained and validated ML classifiers on this reducded data and finally predicted hot spot residues on an independent test set to quantify the predictive power of my pipeline when used with ML classifiers.  
-            - The codes and data are publically available on [Github](https://github.com/Divya1205/RBHS_Sitani).
+            - The codes and data are publically available on.
             - During my PhD studies I have participated in a plethora of Deep Learning, Machine Learning, Computational biology and Bioinformatics conferences, workshops and schools. 
             - I presented my poster in Summer School on Machine Learning in Drug Design at K. U. Leuven titled “Impact of Disease associated variants in the protein interactome at the human synapse” in August, 2018.
             - I gave an oral presentation titled “RPCA (Robust Principal Component Analysis) based approach for protein-protein interaction hot-spot prediction” at the [AdvCompBio 2019](https://www.iscb.org/advcompbio2019) in Barcelona in November, 2019
