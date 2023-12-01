@@ -190,7 +190,7 @@ projects:
     #assignments:
       - title: 2nd BioHackathon Germany
         link:  "https://www.denbi.de/de-nbi-events/1608-spacehack-2-0"
-        tagline: "This hackathon is upcoming from 11.12.2023-15.12.2023 and the challenge I am participating in focusses on benchmarking of spatially resolved transcriptomics tools."
+        tagline: "This hackathon will take place in December 2023 and the challenge I am participating in focusses on benchmarking of spatially resolved transcriptomics tools."
       
       - title: Cytodata 2023 Hackathon
         link:  https://github.com/Divya1205/CytoData-Hackathon-2023
