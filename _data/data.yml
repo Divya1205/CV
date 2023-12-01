@@ -166,6 +166,25 @@ experiences:
             - M. Tech. Thesis titled Visual Tracking using Analysis Dictionary Learning.
             - The main area of research was Computer Vision and Machine Learning and supervisors were [Dr. A.V. Subramanyam](https://vcg.iiitd.edu.in/team/) and [Dr. Angshul Majumdar](https://salsa.iiitd.edu.in/members.html).
     
+publications:
+    title: Publications
+    intro: |
+      
+      - Addressing persistent challenges in digital image analysis of cancerous tissues, 
+        doi:[10.1101/2023.07.21.548450](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)
+        Prabhakaran et al. & Participants of the Cell Imaging Hackathon 2022,
+        bioRxiv, 2023.
+
+      - Robust principal component analysis‐based prediction of protein‐protein interaction hot spots,
+        doi:[10.1002/prot.26047](https://doi.org/10.1002/prot.26047)
+        Sitani et al., 
+        Proteins: Structure, Function, and Bioinformatics 89, no. 6 (2021): 639-647.
+
+      - Online single and multiple analysis dictionary learning-based approach for visual object tracking
+        doi:[10.1117/1.JEI.28.1.013004](https://doi.org/10.1117/1.JEI.28.1.013004)
+        Sitani et al. ,
+        Journal of Electronic Imaging 28, no. 1 (2019): 013004.
+
 projects:
     title: Hackathons
     intro: >
@@ -191,7 +210,7 @@ projects:
 
       - title: Her Hackathon 2022 
         link: "https://www.linkedin.com/posts/divya-sitani-868216152_herhackathon2022-ai-experience-activity-6946861698297298944-Rxb0?utm_source=share&utm_medium=member_desktop"
-        tagline: "The challenge I worked on was to ensure diversity and inclusion in clinical trials, and the challenge Setter was Merck Group and a team of 4. Developed a web application named "Tree of Life" tailored for Health Care Professionals (HCP). This tool aids in linking patients with Clinical Trials, while also enhancing participant diversity within these trials. The app incorporated a diversity index, guiding HCPs in identifying underrepresented ethnic, gender, or racial groups, encouraging the inclusion of these demographics. We used AI and network-centric methods to construct a network of health care professionals."
+        tagline: 
 oss:
     title: Honours and Awards 
     contributions:
@@ -221,24 +240,6 @@ oss:
         tagline: 
         - "Received a scholarship of INR 40,000 (approx. 500 Euros) annually for 4 years (2011-2015) based on entrance exam rank."
 
-publications:
-    title: Publications
-    intro: |
-      
-      - Addressing persistent challenges in digital image analysis of cancerous tissues, 
-        doi:[10.1101/2023.07.21.548450](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)
-        Prabhakaran et al. & Participants of the Cell Imaging Hackathon 2022,
-        bioRxiv, 2023.
-
-      - Robust principal component analysis‐based prediction of protein‐protein interaction hot spots,
-        doi:[10.1002/prot.26047](https://doi.org/10.1002/prot.26047)
-        Sitani et al., 
-        Proteins: Structure, Function, and Bioinformatics 89, no. 6 (2021): 639-647.
-
-      - Online single and multiple analysis dictionary learning-based approach for visual object tracking
-        doi:[10.1117/1.JEI.28.1.013004](https://doi.org/10.1117/1.JEI.28.1.013004)
-        Sitani et al. ,
-        Journal of Electronic Imaging 28, no. 1 (2019): 013004.
 
 
 
