@@ -190,7 +190,7 @@ projects:
         tagline: "I worked on was the 1000 Brains Study Dataset in a team size of 4 in the Juelich Challenges Hackathon 2021 organized by Forschungszentrum Juelich and my supervisor was Dr. Susanne Weis. I navigated graph-based machine learning methods to predict whether a participant is male or female based on pairwise functional brain connectivity across 436 brain parcels covering the whole brain. Functional magnetic resonance imaging (fMRI) data were acquired during the “resting state (RS)” of the participants’ brains are scanned while lying awake in the scanner with no specific instructions."
 
       - title: Her Hackathon 2022
-        link:  "https://clever-croquembouche-61c5a6.netlify.app/index.html"
+        #link:  "https://clever-croquembouche-61c5a6.netlify.app/index.html"
         tagline: "The challenge I worked on was to ensure diversity and inclusion in clinical trials, and the challenge Setter was Merck Group and a team of 4. Developed a web application named ["Tree of Life"]("https://clever-croquembouche-61c5a6.netlify.app/index.html") tailored for Health Care Professionals (HCP). This tool aids in linking patients with Clinical Trials, while also enhancing participant diversity within these trials. The app incorporated a diversity index, guiding HCPs in identifying underrepresented ethnic, gender, or racial groups, encouraging the inclusion of these demographics. We used AI and network-centric methods to construct a network of health care professionals."
 
 
