@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Summary
     summary: |
-      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting data. My PhD thesis defence is sheduled for 16.01.2024
+      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting data. My PhD thesis defence is sheduled for 16.01.2024.
       
 education:
     title: Education
@@ -76,7 +76,7 @@ education:
         #details: |
           
 experiences:
-    title: Work Experiences
+    title: Work Experience
     info:
       - role: Researcher
         time: 01.04.2023 - 31.10.2023
@@ -188,6 +188,10 @@ projects:
       I actively engage in hackathons in the fields of application of AI/ML for bio-image analysis, drug discovery, and computational biomedicine. This engagement helps me stay connected with the latest in the field, constantly working on new and challenging problems, and networking with like-minded individuals. With a strong background in electronics and communications engineering, I bring a unique perspective to computational biology, constantly seeking innovative solutions to 
     complex problems:
     #assignments:
+      - title: 2nd BioHackathon Germany
+        link:  "https://www.denbi.de/de-nbi-events/1608-spacehack-2-0"
+        tagline: "This hackathon is upcoming from 11.12.2023-15.12.2023 and the challenge I am participating in focusses on benchmarking of spatially resolved transcriptomics tools."
+      
       - title: Cytodata 2023 Hackathon
         link:  https://github.com/Divya1205/CytoData-Hackathon-2023
         tagline: "The dataset comprised of multiplexed fluorescence microscopy images of renal cancer tissue samples. Worked in a team of 4 to develop and apply methods to profile these samples for instance to predict cancer aggressiveness. The dataset included approximately 100 cases and about 500 multi-channel 4k x 4k images (~80GB of image data) in three core locations: Benign, Tumor center and Tumor Border. The access to GPU computing resources and the data in Jupyter environment was provided. I worked on finding the effect of core location on cancer stage prediction and used aggregated feature importance to find markers of renal cancer in different core locations. I won the hackathon for this task along with my team."
