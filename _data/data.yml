@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Career Summary
     summary: |
-      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting data. My PhD thesis defence is sheduled for 16.01.2024.
+      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting data. I defended my PhD on 16.01.2024.
       
 education:
     title: Education
@@ -62,7 +62,6 @@ education:
         details: |
           - PhD Thesis titled Machine learning methods for prediction of protein-protein interactions hot spot residues.
           - Supervisors: Prof. Dr Paolo Carloni, Prof. Dr. Geraldine Zimmer-Bensch.
-          - Thesis Defense: 16th January 2024.
       - degree: M.Tech. in Communications and Signal Processing
         university: Indraprastha Institute of Information Technology, Delhi, India
         time: 2015 - 2017
