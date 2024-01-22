@@ -77,12 +77,12 @@ education:
 experiences:
     title: Work Experience
     info:
-      #- role: Upcoming Tutor in Machine Learning Course for 1st year MBA 
-      #  time: 01.02.2024
-      #  company: Hertie School, Berlin
-      #  details: |
-      #      - Helping the Professor in carrying out the course in Spring Semester
-      #      - Conducting two tutorial sessions per week.
+      - role: Upcoming Teaching fellow for the program Data Science for the Common Good at the Hertie School’s Data Science Lab.
+        time: 01.02.2024-30.04.2024
+        company: Hertie School, Berlin
+        details: |
+            - Helping the Professor in carrying out the course Machine Learning in Spring Semester
+            - Conducting two tutorial sessions per week.
     
       - role: Researcher
         time: 01.04.2023 - 31.10.2023
