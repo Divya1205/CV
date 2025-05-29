@@ -17,11 +17,11 @@ sidebar:
     phone: #012 345 6789
     timezone: #America/Cancun Timezone
     citizenship:
-    # website: 
-    # - researchgate.net/profile/Divya-Sitani/research #do not add http://
-    # - cytodata.org/board/divyasitani/
-    researchgate: researchgate.net/profile/Divya-Sitani/research
-    Board Member Cytodata Society: www.cytodata.org/board/divyasitani/
+    website: 
+    - researchgate.net/profile/Divya-Sitani/research #do not add http://
+    - cytodata.org/board/divyasitani/
+    # researchgate: researchgate.net/profile/Divya-Sitani/research
+    # Board Member Cytodata Society: www.cytodata.org/board/divyasitani/
     linkedin: divya-sitani-868216152
     xing: #alandoe
     github: Divya1205
