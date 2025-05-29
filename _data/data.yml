@@ -80,7 +80,7 @@ education:
 experiences:
     title: Work Experience
     info:
-    -   role: Post-Doctoral Researcher
+      - role: Post-Doctoral Researcher
         time: 15.05.2024-Ongoing
         company: German Center for Neurodegenrative Diseases
         details: |
