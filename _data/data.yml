@@ -13,18 +13,20 @@ sidebar:
     avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jrpcsitani@gmail.com
+    email: jrpcsitani@gmail.com, sitani.divya@dzne.de
     phone: #012 345 6789
     timezone: #America/Cancun Timezone
     citizenship:
     website: researchgate.net/profile/Divya-Sitani/research #do not add http://
+    website: www.cytodata.org/board/divyasitani/
     linkedin: divya-sitani-868216152
     xing: #alandoe
     github: Divya1205
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@divya_sitani'
+    # twitter: '@divya_sitani'
+    bluesky: '‪@divyasitani.bsky.social‬'
     stack-overflow: 14068444/divya-sitani # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -44,14 +46,12 @@ sidebar:
     interests:
       title: Skills and interests
       info:
-        - item: Machine Learning, Computational Biomedicine, Experience in Python, R and Matlab, Bioinformatics, Pandas, Scikit-Learn, Matplotlib, Numpy, Tensorflow, Pytorch, Image analysis, morphological profiling, cell painting analysis, unsupervised learning, clustering, Knowledge Graphs, Neo4j, Git, Latex, Teaching and Research.
-          link:
-
+        - item: Machine Learning, Computational Biomedicine, Experience in Python, R and Matlab, Pytorch Bioinformatics, Pandas, Scikit-Learn, Matplotlib, Numpy, Tensorflow, Pytorch, Image analysis, morphological profiling, cell painting analysis, unsupervised learning, clustering, tabular machine learning methods, Shap explainability, Flow Cytometry data analysis, Cohort generalization
 
 career-profile:
     title: Career Summary
     summary: |
-      - I am a dedicated researcher interested in applying ML/AI to computational biomedicine and drug discovery problems, currently focused on leveraging machine learning techniques for morphological profiling and cell painting data. I defended my PhD on 16.01.2024.
+      - I am a researcher focused on applying machine learning to computational biomedicine, with an emphasis on multimodal data integration, cohort generalization, and immune response modeling. My work involves analyzing large-scale biological and clinical datasets using tabular machine learning approaches, with attention to model interpretability, metadata harmonization, and cross-cohort validation. I am also exploring privacy-preserving strategies to support decentralized, collaborative biomedical research.
       
 education:
     title: Education
@@ -77,6 +77,62 @@ education:
 experiences:
     title: Work Experience
     info:
+      - role: Post-Doctoral Researcher
+        time: 15.05.2024-Ongoing
+        company: German Center for Neurodegenrative Diseases
+        details: |
+           - Project: [Covim](https://covim-netzwerk.de/en)
+           - Project Lead: COVIM/ImmunoHub – Metadata Integration for Multicenter COVID-19 Immunology Studies
+           - Led the development of the COVIM Common Metadata Model, aligning with biomedical ontologies and standards including EFO (EMBL-EBI), OMOP, and GHGA, ensuring interoperability and FAIR compliance.
+           - Built and maintained ImmunoHub, a LaminDB-based metadata repository centralizing biosample and patient metadata across the COVIM consortium.
+           - Harmonized clinical metadata across 10+ German sites, including comorbidities, medications (ATC-coded), immune status, and outcome variables etc.
+           - Developed and validated ingestion pipelines using controlled vocabularies like ICD-10 and ATC, with robust handling of missing and multi-entry fields.
+           - Implemented collaborative schema governance using Git and the `lnschema-covim` framework.
+           - Supported VM-based deployments with secure access provisioning in collaboration with institutional IT teams.
+           - Ensured longitudinal data capture and cross-study reusability to support pandemic response and immunological research.
+           - Member of Swarm Learning Hub at DZNE, to perform Swarm Learning and downstream data analysis for pandemic preparedness and Covid-19 disease severity prediction after consolidating metadata.
+
+           - Project: Cross-Cohort Generalization of Vaccine-Induced Immune Signatures via Feature Fusion and Multimodal Machine Learning
+           - Led a team of two student interns to develop an interpretable machine learning pipeline to classify pertussis vaccine priming (whole-cell vs. acellular) using multi-omics immune data from the CMI-PB Prediction Challenge (2020–2022).
+           - Integrated gene expression, antibody titers, cytokine levels, and immune cell frequencies through SHAP-based feature selection and feature-level fusion.
+           - Demonstrated strong cross-cohort generalization using classifiers including Random Forests, SVM, KNN, Logistic Regression, MLP, and XGBoost.
+           - Identified key predictive features including IgG4 antibodies to FHA/PT and cytokines (e.g., CCL8, IL-1α, CXCL9), supporting prior experimental findings on tolerogenic responses in aP-primed individuals.
+           - Invited speaker (online) at the La Jolla Institute for Immunology, presenting results on multimodal modeling of immune recall responses and future directions including privacy-preserving collaborative learning.
+           - Talk accepted at ECCB 2025 (Liverpool, UK) highlighting advances in cross-cohort generalization and multi-omics fusion for immune classification tasks.
+           - Preparing a manuscript to consolidate computational results and propose collaborative experimental validation.
+           
+           - Project: Cross-Site Machine Learning for Antigen-Reactive T Cell Classification [PANTA-COVIM Workpackage 6](https://covim-netzwerk.de/forschung/translation)
+           - As the Data Scientist, I lead the development of machine learning pipelines to classify antigen-reactive T cells using high-dimensional flow cytometry data collected across multiple clinical sites. This project is part of the translational workpackage within the [COVIM Consortium](https://covim-netzwerk.de/forschung/translation), focused on pandemic preparedness through decentralized immunomonitoring.
+           - Led data harmonization across 7 clinical sites using heterogeneous flow cytometry platforms (Miltenyi and spectral flow)
+           - Designed and implemented a cell-level supervised classification pipeline (XGBoost) to detect SARS-CoV-2–reactive T cells
+           - Performed cross-site generalization experiments to assess robustness of ML models across biological and technical variability
+           - Developing donor-level reactivity scores by aggregating cell-level predictions and applying site-specific thresholds.
+           - Defined preprocessing strategies including gating out non-T cell populations (CD19+, CD20+, CD14+) prior to ML
+           - Coordinated with partner immunologists to resolve cluster annotation inconsistencies (e.g., CD8+CD154+ cases).
+           - Benchmarked ML predictions against manual gating outputs from collaborators.
+           - Initiated the design of a donor-level neural network classifier using embedding and pooling strategies**.
+
+      -role: Group Leader Mircore for Virtual Computational Biomedicine Camp
+       time: June, 2024
+       company: miRcore (University of Michigan) 
+       details: |
+       - same as 2023 and 2022 (below).
+
+      - role: Teacher for virtual R Programming & Machine Learning Camp 
+        time: July, 2024
+        company: miRcore (University of Michigan) 
+        details: |
+        - same as 2023 and 2022 (below).
+        
+      - role: Group Leader for Sequencing your genome Camp
+        time: August, 2024
+        company: miRcore (University of Michigan)
+        details: |
+        - supervised a group of 6 high school students to analyze next-gen raw sequencing data through the use of the Linux operating system and various Linux commands to run programs.
+        - using University of Michigan's HPC Great Lakes Slurm cluster provided by The Michigan Institute for Computational Discovery and Engineering (MICDE) to run calculations in a Linux environment.
+        - in the final week, interested high scool and college students, participate in self data analysis.
+        - After their genome had been sequenced, students were given access to a Linux cluster to do computational self-data analysis for one year (for non-medical research purposes only). Each student is the sole custodian of their genomic data.
+      
       - role: Teaching fellow
         time: 01.02.2024-30.04.2024
         company: Hertie School, Berlin
@@ -92,7 +148,7 @@ experiences:
             - Unsupervised learning and clustering to discover biological patterns and relevant Modes of Action data in cell painting data from two cell cancer lines, across multiple partner sites.
             - I am currently assisting my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a morphological profiling dataset generated with the [EU-OPENSCREEN bioactive compound library](https://www.eu-openscreen.eu/services/compound-collection/european-chemical-biology-library-ecbl-pilot-library.html) and exploring the clusters in this cell painting data for further research prospects of this data for drug discovery.
 
-      - role: Group Leader 
+      - role: Group Leader for Virtual Computational Biomedicine summer camp
         time: 12.06.2023 - 30.06.2023
         company: miRcore (University of Michigan) 
         details: |
@@ -102,7 +158,7 @@ experiences:
             - The tools and lectures in CB camp included [OMIM](https://www.omim.org/), [UCSC Genome Browser](https://genome.ucsc.edu/ ), Probability and Statistics, RNA expression and microarrays, GEOR, [GEO2R](https://www.ncbi.nlm.nih.gov/geo/geo2r/), 
               [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI.
            
-      - role: Group Leader 
+      - role: Group Leader for Virtual R summer camp
         time: 01.07.2023 - 14.07.2023
         company: miRcore (University of Michigan) 
         details: |
@@ -110,7 +166,7 @@ experiences:
             - In the R camp, we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers and categorized cancer samples using microRNA expression data from TCGA (The Cancer Genome Atlas).
             - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning.       
       
-      - role: Group Leader 
+      - role: Group Leader for Virtual Computational Biomedicine summer camp
         time: 01.06.2022 - 31.07.2022
         company: miRcore (University of Michigan) 
         details: |
@@ -118,7 +174,7 @@ experiences:
             - In the first CB camp, we researched genes of interest in Pancreatic Cancer and in the second CB camp, we researched Biomarkers in Multiple Sclerosis and we answered questions related to the pathway, enrichment analysis of these genes in my group.
             - The tools and lectures in CB camps are similar to the ones used in 2023 mircore CB camp mentioned above.
             
-      - role: Group Leader 
+      - role: Group Leader for R summer camp
         time: 01.06.2022 - 31.07.2022
         company: miRcore (University of Michigan) 
         details: |
@@ -180,6 +236,16 @@ publications:
     title: Publications
     intro: |
       
+      - Morphological profiling data resource enables prediction of chemical compound properties
+        doi: [https://doi.org/10.1016/j.isci.2025.112445] (https://doi.org/10.1016/j.isci.2025.112445)
+        Wolff, Christopher, et al.
+        iScience 28.5 (2025).
+        
+      - Morphological Profiling Dataset of EU-OPENSCREEN Bioactive Compounds Over Multiple Imaging Sites and Cell Lines
+        doi: [https://doi.org/10.1101/2024.08.27.609964](https://doi.org/10.1101/2024.08.27.609964)
+        Wolff, Christopher, et al.,
+        bioRxiv (2024): 2024-08.
+      
       - Addressing persistent challenges in digital image analysis of cancerous tissues, 
         doi:[10.1101/2023.07.21.548450](https://www.biorxiv.org/content/10.1101/2023.07.21.548450v1)
         Prabhakaran et al. & Participants of the Cell Imaging Hackathon 2022,
@@ -226,8 +292,16 @@ projects:
 
      
 oss:
-    title: Honours and Awards 
+    title: Contributions and Honours
     contributions:
+      - title: "Board Member Cytodata society"
+        link: "https://www.cytodata.org/board/divyasitani/"
+      - title: "Reviewer for 2nd workshop on Generative AI and Biology, ICML 2025."
+        link: "#"
+      - title: "Reviewer For Neurips 2024 Workshop on AI for New Drug Modalities"
+        link: "#"
+      - title: "Reviewer for Women in Machine Learning (WiML) Workshop at NeurIPS 2024." 
+        link: "#"
       - title: "Women in Bioinformatics and Data Science, LA Conference, 2022"
         link: "#"
         tagline: 
