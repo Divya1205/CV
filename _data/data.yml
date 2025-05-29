@@ -240,12 +240,12 @@ publications:
     intro: |
       
       - Morphological profiling data resource enables prediction of chemical compound properties
-        doi: [https://doi.org/10.1016/j.isci.2025.112445] (https://doi.org/10.1016/j.isci.2025.112445)
+        doi:[10.1016/j.isci.2025.112445](https://doi.org/10.1016/j.isci.2025.112445)
         Wolff, Christopher, et al.
         iScience 28.5 (2025).
         
       - Morphological Profiling Dataset of EU-OPENSCREEN Bioactive Compounds Over Multiple Imaging Sites and Cell Lines
-        doi: [https://doi.org/10.1101/2024.08.27.609964](https://doi.org/10.1101/2024.08.27.609964)
+        doi:[10.1101/2024.08.27.609964](https://doi.org/10.1101/2024.08.27.609964)
         Wolff, Christopher, et al.,
         bioRxiv (2024): 2024-08.
       
@@ -300,11 +300,11 @@ oss:
       - title: "Board Member Cytodata society"
         link: "https://www.cytodata.org/board/divyasitani/"
       - title: "Reviewer for 2nd workshop on Generative AI and Biology, ICML 2025."
-        link: "#"
+        link: "https://genbio-workshop.github.io/2025/"
       - title: "Reviewer For Neurips 2024 Workshop on AI for New Drug Modalities"
-        link: "#"
+        link: "https://sites.google.com/view/newmodality-aidrug"
       - title: "Reviewer for Women in Machine Learning (WiML) Workshop at NeurIPS 2024." 
-        link: "#"
+        link: "https://www.wiml.org/wiml-workshop-neurips-2024"
       - title: "Women in Bioinformatics and Data Science, LA Conference, 2022"
         link: "#"
         tagline: 
