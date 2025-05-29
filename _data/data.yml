@@ -112,11 +112,11 @@ experiences:
            - Benchmarked ML predictions against manual gating outputs from collaborators.
            - Initiated the design of a donor-level neural network classifier using embedding and pooling strategies**.
 
-      -role: Group Leader Mircore for Virtual Computational Biomedicine Camp
-       time: June, 2024
-       company: miRcore (University of Michigan) 
-       details: |
-       - same as 2023 and 2022 (below).
+      - role: Group Leader Mircore for Virtual Computational Biomedicine Camp
+        time: June, 2024
+        company: miRcore (University of Michigan) 
+        details: |
+        - same as 2023 and 2022 (below).
 
       - role: Teacher for virtual R Programming & Machine Learning Camp 
         time: July, 2024
