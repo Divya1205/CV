@@ -111,7 +111,7 @@ experiences:
            - Developing donor-level reactivity scores by aggregating cell-level predictions and applying site-specific thresholds.
            - Defined preprocessing strategies including gating out non-T cell populations (CD19+, CD20+, CD14+) prior to ML
            - Coordinated with partner immunologists to resolve cluster annotation inconsistencies (e.g., CD8+CD154+ cases).
-           - Benchmarked ML predictions against manual gating outputs from collaborators.
+           - Benchmarking ML predictions against manual gating outputs from collaborators for a publication.
            - Initiated the design of a donor-level neural network classifier using embedding and pooling strategies.
 
       - role: Group Leader for Computational Biomedicine Camp
