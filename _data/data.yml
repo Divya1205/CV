@@ -93,7 +93,7 @@ experiences:
            - Supported VM-based deployments with secure access provisioning in collaboration with institutional IT teams.
            - Ensured longitudinal data capture and cross-study reusability to support pandemic response and immunological research.
            - Member of Swarm Learning Hub at DZNE, to perform Swarm Learning and downstream data analysis for pandemic preparedness and Covid-19 disease severity prediction after consolidating metadata.
-           -
+           
            - Project: Cross-Cohort Generalization of Vaccine-Induced Immune Signatures via Feature Fusion and Multimodal Machine Learning
            - Led a team of two student interns to develop an interpretable machine learning pipeline to classify pertussis vaccine priming (whole-cell vs. acellular) using multi-omics immune data from the CMI-PB Prediction Challenge (2020–2022).
            - Integrated gene expression, antibody titers, cytokine levels, and immune cell frequencies through SHAP-based feature selection and feature-level fusion.
@@ -102,7 +102,7 @@ experiences:
            - Invited speaker (online) at the La Jolla Institute for Immunology, presenting results on multimodal modeling of immune recall responses and future directions including privacy-preserving collaborative learning.
            - Talk accepted at ECCB 2025 (Liverpool, UK) highlighting advances in cross-cohort generalization and multi-omics fusion for immune classification tasks.
            - Preparing a manuscript to consolidate computational results and propose collaborative experimental validation.
-           -
+           
            - Project: Cross-Site Machine Learning for Antigen-Reactive T Cell Classification [PANTA-COVIM Workpackage 6](https://covim-netzwerk.de/forschung/translation)
            - As the Data Scientist, I lead the development of machine learning pipelines to classify antigen-reactive T cells using high-dimensional flow cytometry data collected across multiple clinical sites. This project is part of the translational workpackage within the [COVIM Consortium](https://covim-netzwerk.de/forschung/translation), focused on pandemic preparedness through decentralized immunomonitoring.
            - Led data harmonization across 7 clinical sites using heterogeneous flow cytometry platforms (Miltenyi and spectral flow)
