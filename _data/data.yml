@@ -150,7 +150,7 @@ experiences:
             - Unsupervised learning and clustering to discover biological patterns and relevant Modes of Action data in cell painting data from two cell cancer lines, across multiple partner sites.
             - Assisted my colleagues at Leibniz-Forschungsinstitut für Molekulare Pharmakologie in publishing a morphological profiling dataset generated with the [EU-OPENSCREEN bioactive compound library](https://www.eu-openscreen.eu/services/compound-collection/european-chemical-biology-library-ecbl-pilot-library.html) and exploring the clusters in this cell painting data for further research prospects of this data for drug discovery.
 
-      - role: Group Leader for Virtual Computational Biomedicine summer camp
+      - role: Group Leader for Computational Biomedicine summer camp
         time: 12.06.2023 - 30.06.2023
         company: miRcore (University of Michigan) 
         details: |
@@ -160,7 +160,7 @@ experiences:
             - The tools and lectures in CB camp included [OMIM](https://www.omim.org/), [UCSC Genome Browser](https://genome.ucsc.edu/ ), Probability and Statistics, RNA expression and microarrays, GEOR, [GEO2R](https://www.ncbi.nlm.nih.gov/geo/geo2r/), 
               [String-DB](https://string-db.org/ ), gene ontologies, gene regulation, enriched function and pathway analysis from [GO](https://geneontology.org/docs/go-enrichment-analysis/) and [KEGG](https://www.genome.jp/kegg/pathway.html ), looking at genes of interest in [gene cards](https://www.genecards.org/) and preliminaries of AI.
            
-      - role: Group Leader for Virtual R summer camp
+      - role: Group Leader for R summer camp
         time: 01.07.2023 - 14.07.2023
         company: miRcore (University of Michigan) 
         details: |
@@ -168,7 +168,7 @@ experiences:
             - In the R camp, we identified Liver Cancer Hepatocellular Carcinoma (LIHC) biomarkers and categorized cancer samples using microRNA expression data from TCGA (The Cancer Genome Atlas).
             - We used the [ggplot2](https://ggplot2.tidyverse.org/) R package for data analysis, visualization and machine learning.       
       
-      - role: Group Leader for Virtual Computational Biomedicine summer camp
+      - role: Group Leader for Computational Biomedicine summer camp
         time: 01.06.2022 - 31.07.2022
         company: miRcore (University of Michigan) 
         details: |
